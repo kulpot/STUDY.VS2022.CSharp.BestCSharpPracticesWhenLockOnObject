@@ -68,6 +68,8 @@ class MainClass
     }
 }*/
 
+//      ----Lock Sample------------
+  
 class BathroomStall
 {
     public void BeUsed(int userNumber)
